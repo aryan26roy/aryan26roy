@@ -13,3 +13,5 @@
  - 📫 How to reach me: aryanroy5678@gmail.com
  
  - ⚡ Fun fact: Gaming is relaxing.
+ 
+<a href = "https://www.linkedin.com/in/aryan-roy-914458189/"><img src="logo.png" width="40"></a>
