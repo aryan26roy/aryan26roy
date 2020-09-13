@@ -15,3 +15,4 @@
  - ⚡ Fun fact: Gaming is relaxing.
  
 <a href = "https://www.linkedin.com/in/aryan-roy-914458189/"><img src="icon.png" alt="drawing" width="40"/></a>
+<a href = "https://twitter.com/aryanroy5678"><img src="icon2.jpg" alt="drawing" width="40"/></a>
