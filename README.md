@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**aryan26roy/aryan26roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am an AI enthusisast that wants to understand and build better and proficient Intelligent Systems.**
 
-Here are some ideas to get you started:
+ - 🔭 I’m currently working on some AI related stuff
+ 
+ - 🌱 I’m currently learning **Reinforcement Learning**
+ 
+ - 👯 I’m looking to collaborate on any project that might be new and challenging.
+ 
+ - 💬 Ask me about Autonomous Vehicles
+ 
+ - 📫 How to reach me: aryanroy5678@gmail.com
+ 
+ - ⚡ Fun fact: Gaming is relaxing.
+ 
+ [![LinkedIn logo image link](Dump/icon.png)](https://devincept.tech/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
